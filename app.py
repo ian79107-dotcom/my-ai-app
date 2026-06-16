@@ -21,7 +21,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # 這裡請替換成你在 AI Studio 點擊 Publish 後得到的真實網址
-ai_studio_app_url = "這裡貼上你剛剛複製的Publish網址"
+ai_studio_app_url = "https://english-vocabulary-instructor-608150737298.asia-south1.run.app"
 
 # 將 AI Studio 的完美介面內嵌進來
 st.components.v1.iframe(ai_studio_app_url, height=800, scrolling=True)
