@@ -1,3 +1,2 @@
-```text
-   streamlit
-   google-genai
+streamlit
+google-genai
